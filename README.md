@@ -1,14 +1,17 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 2: Predicting housing prices with Regression
 
-## Problem Statement
-To predict the expected saleprice of a house in Ames.
+# Overview
+Purchasing a house is a big decision for both investors and those looking for a place to stay. One of the key considerations behind this decision is the price of the property is reasonable.
+
+**Goal**
+To build an accurate model to predict the expected sale price of a house in Ames. The key metric used will be root mean squared error.
 
 ---
 
 ## Methods
 
 #### Background Research
-To identify known factors which affect house sale prices.
+Several known factors which affect housing prices are available in our dataset (e.g. location, home size, age, condition). These variables will be used to form our base model.
 
 #### Datasets
 The Ames Housing dataset was used. This dataset contains information from the Ames Assessor’s Office used in computing assessed values for individual residential properties sold in Ames, Iowa from 2006 to 2010.
