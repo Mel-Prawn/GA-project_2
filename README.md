@@ -1,15 +1,7 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 2: Predicting housing prices with Regression
 
-## Background
-
-Due to the political unrest in Hong Kong, an increasing number of Hongkongers are looking overseas to settle down for a few years. For some reason, they are particularly interested in the city of Ames. 
-
-As a scientist working in a relocation/migration firm in Hong Kong, you have been tasked to build a model which can predict the expected sale price of houses in that area based on its features. Since the potential buyers are NOT intending for these houses to be their forever homes, they will hope to get the houses at a good price so that they do not loose too much money when they eventually sell it.
-
----
-
 ## Problem Statement
-To build an accurate model to predict the expected saleprice of a house in Ames.
+To predict the expected saleprice of a house in Ames.
 
 ---
 
